@@ -1,7 +1,7 @@
 // Made by Saminur Rahman & Khaled Ahmed
 // HackNJIT 2020
 
-// Project name: Hackman
+// Project name: Hangman
 #include <iostream>
 #include <string>
 #include <cstdlib>
