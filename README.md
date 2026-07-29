@@ -38,7 +38,7 @@ web-development/
 - HTML & CSS
 
 
-  These projects represent my early programming experience and are preserved as part of my software development portfolio.
+These projects represent my early programming experience and are preserved as part of my software development portfolio.
 ---
 
 
