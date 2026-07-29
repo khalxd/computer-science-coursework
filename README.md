@@ -39,4 +39,3 @@ web-development/
 
 ---
 
-**Author:** Khaled Ahmed
